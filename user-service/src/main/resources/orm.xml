@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<entity-mappings xmlns="http://www.eclipse.org/eclipselink/xsds/persistence/orm" version="2.1">
+    <converter class="ru.bahurski.socialnetwork.core.util.converter.hibernate.SexAttributeConverter"/>
+</entity-mappings>
